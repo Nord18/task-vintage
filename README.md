@@ -1,8 +1,3 @@
-Test task for Vintage UA
------
-
-by Vue JS (include ES5, ES6)
-
 ## Project setup
 ```
 npm install
